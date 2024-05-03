@@ -2,49 +2,57 @@
     {
       "precio": 1249150,
       "id": 1,
-      "title": "Apple iPhone 12 Pro Max Grafito 256Gb",
+      "nombre": "Apple iPhone 12 Pro Max Grafito 256Gb",
+      "stock" : 5,
       "image": "https://i.linio.com/p/3eebd43470916f18151d45c8e962560e-product.webp"
     }, 
     {
       "precio": 2699990,
       "id": 2,
-      "title": "Macbook PRO",
+      "nombre": "Macbook PRO",
+      "stock" : 5,
       "image": "https://http2.mlstatic.com/D_NQ_NP_797920-MLC45629512487_042021-O.webp"
     }, 
     {
       "precio": 119990,
       "id": 3,
-      "title": "Amazon Alexa Echo Dot",
+      "nombre": "Amazon Alexa Echo Dot",
+      "stock" : 5,
       "image": "https://http2.mlstatic.com/D_NQ_NP_871826-MLA74781536697_022024-O.webp"
     }, 
     {
       "precio": 1990990,
       "id": 4,
-      "title": "Notebook gamer MSI G565",
+      "nombre": "Notebook gamer MSI G565",
+      "stock" : 5,
       "image": "https://http2.mlstatic.com/D_NQ_NP_817738-MLC44782210434_022021-O.webp"
     }, 
     {
       "precio": 21990,
       "id": 5,
-      "title": "Teclado gamer RGB K110",
+      "nombre": "Teclado gamer RGB K110",
+      "stock" : 5,
       "image": "https://i.linio.com/p/d7d86f61626601d087abc86f83f1c8ac-product.webp"
     }, 
     {
       "precio": 1700000,
       "id": 6,
-      "title": "Cámara semiprofesional SX540",
+      "nombre": "Cámara semiprofesional SX540",
+      "stock" : 0,
       "image": "https://i.linio.com/p/4ba7c9a09fcf7efbf8e2fc9216d3df0c-product.webp"
     }, 
     {
       "precio": 899990,
       "id": 7,
-      "title": "Sony Playstation PS5",
+      "nombre": "Sony Playstation PS5",
+      "stock" : 5,
       "image": "https://i.linio.com/p/3f6b447c68d30e0e1b7e8caa7bd49cf4-product.webp"
     }, 
     {
       "precio": 100990,
       "id": 8,
-      "title": "Micrófono gamer profesional HyperX",
+      "nombre": "Micrófono gamer profesional HyperX",
+      "stock" : 5,
       "image": "https://www.paris.cl/dw/image/v2/BCHW_PRD/on/demandware.static/-/Sites-paris-marketplace/default/dw9934c3bd/images/imagenes-productos/800/MKES/MKESSLAB4R-001.jpg?sw=513&sh=654&sm=fit"
     }
   ]

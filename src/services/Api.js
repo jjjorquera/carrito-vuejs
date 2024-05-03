@@ -31,10 +31,10 @@ export default {
                     } else {
                         throw new Error ('Fallo el llamado hacia el api de products');
                     }
-                }) then ( data => {
+                }) .then( data => {
                     console.log(data);
                     return resolve (data);
-                }) catch(error => reject(error))
-        });
+                }) .catch(error => reject(error));
+        })
     }
 };
